@@ -42,5 +42,3 @@ This project is divided into three main parts:
 
 ---
 
-## 📂 Repository Structure
-
